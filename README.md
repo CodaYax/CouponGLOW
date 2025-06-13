@@ -1,5 +1,6 @@
 # Análisis Completo: Card Glow Bioluminescence
-![Vista previa](https://imgur.com/a/bo3pbiC)
+![Image](https://github.com/user-attachments/assets/f340d5c9-d8ca-40f3-827d-c1fb7822772f)
+![Image](https://github.com/user-attachments/assets/55378c14-0f5b-4cde-be7e-00cd3b793a45)
 
 ## 1. Estructura de Archivos Encontrados
 
